@@ -1,4 +1,4 @@
-name: Compile Java Project (Java 8, 17, 21)
+name: Compile Java Project (Java 17, 21)
 
 on:
   push:
